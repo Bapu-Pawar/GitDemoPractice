@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+    <configuration>
+
+        <!-- Report Theme -->
+        <theme>standard</theme>
+
+        <!-- Report Document Title -->
+        <documentTitle>SauceDemo Automation Report</documentTitle>
+
+        <!-- Report Name -->
+        <reportName>SauceDemo Regression Execution</reportName>
+
+        <!-- Encoding -->
+        <encoding>utf-8</encoding>
+
+        <!-- Timestamp Format -->
+        <timeStampFormat>yyyy-MM-dd HH:mm:ss</timeStampFormat>
+
+        <!-- System Info -->
+        <systemInfo>
+            <key>Application</key>
+            <value>SauceDemo</value>
+        </systemInfo>
+
+        <systemInfo>
+            <key>Environment</key>
+            <value>QA</value>
+        </systemInfo>
+
+        <systemInfo>
+            <key>Browser</key>
+            <value>Chrome</value>
+        </systemInfo>
+
+        <systemInfo>
+            <key>Automation Engineer</key>
+            <value>Sheetal Pawar</value>
+        </systemInfo>
+
+    </configuration>
+</extentreports>
